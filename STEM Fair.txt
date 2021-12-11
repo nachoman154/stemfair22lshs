@@ -1,3 +1,9 @@
 STEM Fair
+S. Onwumelu and A. Martinez
+Supervisor: P. Krouba
 
-This is the repo that we will be using for STEM fair at lshs and will be documenting our progress and all of the 
+Officially Started 10/21/21
+
+This is the repo that we will be using for STEM fair at lshs and will be documenting our progress and all of the changes that we make throughout the process. This is also how we will track the progress and make sure that our entire program works along the way.
+
+The goal of our project is to create a robot that will use AI to perform specific tasks under variable conditions consistently and precisely. A. Martinez will be taking care of the Engineering portion of the project and S. Onwumelu will be taking care of the software side of the project. We have found that this projrect is the perfect balance of Engineering and Computer Science and is perfect for our respective interests.
